@@ -1,2 +1,2 @@
 # Adjoint-Optimization
-Optimization a the Boundary Layer Distribution 
+Optimization a Boundary Layer Distribution 
